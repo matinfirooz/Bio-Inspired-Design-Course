@@ -13,3 +13,8 @@ HW : Hopfield Artificial Neural Network [LINK](https://github.com/matinfirooz/Ho
 HW : Cellular Automata Predator Prey Simulator [LINK](https://github.com/matinfirooz/Cellular-Automata-Predator-Prey-Simulator.git).
 
 HW : Ant Colony Optimization (ACO) algorithm [LINK](https://github.com/matinfirooz/Ant-Colony-Optimization-ACO-Algorithm.git).
+
+---
+
+## References
+[1](“Bio-Inspired Artificial Intelligence: Theories, Methods, and Technologies (Intelligent Robotics and Autonomous Agents): Floreano, Director Dario, Mattiussi, Claudio: 9780262062718: Amazon.com: Books”)  [LINK](https://www.amazon.com/Bio-Inspired-Artificial-Intelligence-Technologies-Intelligent/dp/0262062712).
