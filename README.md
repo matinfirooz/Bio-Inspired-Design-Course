@@ -14,7 +14,8 @@ HW : Cellular Automata Predator Prey Simulator [LINK](https://github.com/matinfi
 
 HW : Ant Colony Optimization (ACO) algorithm [LINK](https://github.com/matinfirooz/Ant-Colony-Optimization-ACO-Algorithm.git).
 
-HW : Cellular Automata Traffic Simulator [Working on it]()
+HW : Cellular Automata Traffic Simulator
+
 ---
 
 ## References
